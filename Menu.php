@@ -31,6 +31,7 @@
   <p>-> Tilson Perez Arzuaga</p>
   <p>-> Luis Bayona </p>
   <p>-> Nilson Rosado </p>
+  <p>Kendy ALfaro</p>
 </div>
 
 </body>
