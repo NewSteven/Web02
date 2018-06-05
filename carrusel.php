@@ -46,6 +46,9 @@
     <div class="carousel-item">
       <img src="http://www.sciencemag.org/sites/default/files/styles/article_main_large/public/sn-dark%20web.png?itok=O7J9fokh" alt="New York" width="1100" height="500">
     </div>
+    <div class="carousel-item">
+      <img src="http://static.alfabetajuega.com/abj_public_files/alfabetajuega-dragon-ball-super-goku-25112017.jpg" alt="New York" width="1100" height="500">
+    </div>
   </div>
   
   <!-- Left and right controls -->
