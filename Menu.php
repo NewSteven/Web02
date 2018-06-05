@@ -16,6 +16,9 @@
     <li class="nav-item">
       <a class="nav-link" href="#">Opcion Tilson</a>
     </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Opcion Bayona</a>
+    </li>
   </ul>
 </nav>
 <br>
@@ -23,6 +26,8 @@
 <div class="container-fluid">
   <h3>Integrantes</h3>
   <p>-> Tilson Perez Arzuaga</p>
+  <p>-> Luis Bayona </p>
+
 </div>
 
 </body>
