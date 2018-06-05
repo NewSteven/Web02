@@ -11,8 +11,8 @@
   <style>
   /* Make the image fully responsive */
   .carousel-inner img {
-      width: 100%;
-      height: 100%;
+      width: 50%;
+      height: 50%;
   }
   </style>
 </head>
@@ -31,15 +31,12 @@
   </ul>
   
   <!-- The slideshow -->
-  <div class="carousel-inner">
+  <div class="carousel-inner" align="center">
     <div class="carousel-item active">
-      <img src="naruto.png" alt="Naturo" width="1100" height="500">
+      <img src="https://vignette.wikia.nocookie.net/naruto/images/7/75/Naruto_Uzumaki_HD.png/revision/latest?cb=20161013194453&path-prefix=es" alt="Naturo" width="1100" height="500">
     </div>
     <div class="carousel-item">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="1100" height="500">
-    </div>
-    <div class="carousel-item">
-      <img src="ny.jpg" alt="New York" width="1100" height="500">
     </div>
     <div class="carousel-item">
       <img src="https://cdne.diariocorreo.pe/thumbs/uploads/img/2016/09/24/mis-khalifa-enciende-las-re-jpg_604x0.jpg" alt="New York" width="1100" height="500">
