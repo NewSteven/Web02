@@ -30,7 +30,7 @@
   <h3>Integrantes</h3>
   <p>-> Tilson Perez Arzuaga</p>
   <p>-> Luis Bayona </p>
-
+  <p>-> Nilson Rosado </p>
 </div>
 
 </body>
