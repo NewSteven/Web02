@@ -25,6 +25,8 @@
     <li data-target="#demo" data-slide-to="0" class="active"></li>
     <li data-target="#demo" data-slide-to="1"></li>
     <li data-target="#demo" data-slide-to="2"></li>
+    <li data-target="#demo" data-slide-to="3"></li>
+    <li data-target="#demo" data-slide-to="4"></li>
   </ul>
   
   <!-- The slideshow -->
@@ -37,6 +39,12 @@
     </div>
     <div class="carousel-item">
       <img src="ny.jpg" alt="New York" width="1100" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="https://cdne.diariocorreo.pe/thumbs/uploads/img/2016/09/24/mis-khalifa-enciende-las-re-jpg_604x0.jpg" alt="New York" width="1100" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="http://www.sciencemag.org/sites/default/files/styles/article_main_large/public/sn-dark%20web.png?itok=O7J9fokh" alt="New York" width="1100" height="500">
     </div>
   </div>
   
