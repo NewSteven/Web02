@@ -11,8 +11,8 @@
   <style>
   /* Make the image fully responsive */
   .carousel-inner img {
-      width: 100%;
-      height: 100%;
+      width: 50%;
+      height: 50%;
   }
   </style>
 </head>
@@ -27,18 +27,16 @@
     <li data-target="#demo" data-slide-to="2"></li>
     <li data-target="#demo" data-slide-to="3"></li>
     <li data-target="#demo" data-slide-to="4"></li>
+    <li data-target="#demo" data-slide-to="5"></li>
   </ul>
   
   <!-- The slideshow -->
-  <div class="carousel-inner">
+  <div class="carousel-inner" align="center">
     <div class="carousel-item active">
-      <img src="naruto.png" alt="Naturo" width="1100" height="500">
+      <img src="https://vignette.wikia.nocookie.net/naruto/images/7/75/Naruto_Uzumaki_HD.png/revision/latest?cb=20161013194453&path-prefix=es" alt="Naturo" width="1100" height="500">
     </div>
     <div class="carousel-item">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="1100" height="500">
-    </div>
-    <div class="carousel-item">
-      <img src="ny.jpg" alt="New York" width="1100" height="500">
     </div>
     <div class="carousel-item">
       <img src="https://cdne.diariocorreo.pe/thumbs/uploads/img/2016/09/24/mis-khalifa-enciende-las-re-jpg_604x0.jpg" alt="New York" width="1100" height="500">
@@ -48,6 +46,9 @@
     </div>
     <div class="carousel-item">
       <img src="http://static.alfabetajuega.com/abj_public_files/alfabetajuega-dragon-ball-super-goku-25112017.jpg" alt="New York" width="1100" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/34584076_10214657849913266_1192853619444023296_n.jpg?_nc_cat=0&oh=8f90e90065bfcccb9ba7818e49a57b6d&oe=5BC4C020" alt="New York" width="1100" height="500">
     </div>
   </div>
   
