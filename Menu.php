@@ -14,10 +14,13 @@
 <nav class="navbar navbar-expand-sm bg-light">
   <ul class="navbar-nav">
     <li class="nav-item">
-      <a class="nav-link" href="#">Opcion Tilson</a>
+      <a class="nav-link" href="formulario.php">Formulario</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Opcion Bayona</a>
+      <a class="nav-link" href="carrusel.php">Carrusel</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="Datatables.php">Data Tables</a>
     </li>
   </ul>
 </nav>
@@ -27,7 +30,7 @@
   <h3>Integrantes</h3>
   <p>-> Tilson Perez Arzuaga</p>
   <p>-> Luis Bayona </p>
-
+  <p>-> Nilson Rosado </p>
 </div>
 
 </body>
