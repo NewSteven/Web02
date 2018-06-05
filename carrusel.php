@@ -33,7 +33,7 @@
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="naruto.png" alt="Naturo" width="1100" height="500">
+      <img src="https://www.hobbyconsolas.com/noticias/exitoso-anime-naruto-celebra-su-15o-aniversario-168402.jpg" alt="Naturo" width="1100" height="500">
     </div>
     <div class="carousel-item">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="1100" height="500">
