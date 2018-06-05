@@ -33,7 +33,7 @@
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/show/1304?region=US&size=952x536.png" alt="Naturo" width="1100" height="500">
+      <img src="https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/show/1304?region=US&size=952x536.jpg" alt="Naturo" width="1100" height="500">
     </div>
     <div class="carousel-item">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="1100" height="500">
