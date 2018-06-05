@@ -50,6 +50,9 @@
     <div class="carousel-item">
       <img src="https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/34584076_10214657849913266_1192853619444023296_n.jpg?_nc_cat=0&oh=8f90e90065bfcccb9ba7818e49a57b6d&oe=5BC4C020" alt="New York" width="1100" height="500">
     </div>
+    <div class="carousel-item">
+      <img src="https://thumbs.dreamstime.com/b/drag%C3%B3n-02-de-triba-15996596.jpg" alt="New York" width="1100" height="500">
+    </div>
   </div>
   
   <!-- Left and right controls -->
